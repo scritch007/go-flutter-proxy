@@ -1,0 +1,1 @@
+export PUB_HOSTED_URL=http://localhost:8080
